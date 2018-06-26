@@ -1,4 +1,5 @@
-if (true)
+if (true) {
    Console.WriteLine("Condition match!");
-else
+} else {
    Console.WriteLine("Condition not match!");
+}
